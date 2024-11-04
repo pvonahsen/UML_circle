@@ -44,6 +44,6 @@ Bank "1" --> "*" Account : manages
 Account "1" --> "1" Person : owned by
 Person "1" --> "*" Account : owns
 Transaction "1" --> "1" Account : source
-Transaction "1" --> "1" Account : target
+Transaction "1" --> "1" Account : targetiii
 
 @enduml
